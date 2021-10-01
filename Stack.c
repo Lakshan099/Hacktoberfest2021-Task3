@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Global Variable
+//Global Variables
 int size,choice,ele;
 
 
